@@ -1,0 +1,15 @@
+@import url(./root.css);
+.box{
+    margin-bottom: 50px;
+}
+.max-width-565{
+    max-width: 565px;
+}
+.experience{
+    color: var(--green);
+}
+@media (max-width:768px) {
+    .box{
+        margin-bottom: 30px;
+    }
+}
